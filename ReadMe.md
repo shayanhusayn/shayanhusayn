@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently learning: **HTML,CSS and JavaScript**<br>💻 Projects: Working on web UI clones and personal design projects<br>🎨 Exploring: **Figma** for UI/UX design and prototyping<br>🚀 Goal: To become a skilled freelance web developer
+🎯 Currently learning: **JavaScript**<br>💻 Projects: Working on web UI clones and personal design projects<br>🎨 Exploring: **Figma** for UI/UX design and prototyping<br>
 
 
 ## 🌐 Socials:
