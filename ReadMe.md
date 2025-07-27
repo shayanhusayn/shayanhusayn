@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently learning: **JavaScript**<br>💻 Projects: Working on web UI clones and personal design projects<br>🎨 Exploring: **Figma** for UI/UX design and prototyping<br>
+🎯 Currently learning: **JavaScript**<br>🎨 Exploring: **Bootstrap**<br>
 
 
 ## 🌐 Socials:
