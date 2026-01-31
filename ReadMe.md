@@ -1,5 +1,5 @@
 #  About Me:
-🎯 Currently learning: **JavaScript**<br>🎨 Exploring: **Bootstrap**<br>
+🎯 Currently learning: **JavaScript**
 
 
 ## 🌐 Socials:
